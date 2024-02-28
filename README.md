@@ -4,10 +4,9 @@ I have a passion for coding and aspire to pursue a career in software developmen
 
 :speech_balloon: **About me:**
 
-:blue_book: _**Education**_
+:blue_book: _**Education**_                                                                                    <img align="right" width="100" height="100" src="![Image Alt text](/image_01_.jfif "Image")/100/100">
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
-    <img align="right" width="100" height="100" src="http:// ![Image Alt text](/image_01_.jfif "Image")/100/100">
   - Currently studying Python Fundamentals
   - Completed courses in Python Basics and Math Concepts for Developers
 
