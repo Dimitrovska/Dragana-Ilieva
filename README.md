@@ -20,6 +20,7 @@ I have a passion for coding and aspire to pursue a career in software developmen
   - Employed in the tax department, specializing in Transfer Pricing
 
 :computer: _**Programming Interests**_
+
 My primary focus is on Python and related technologies. I'm on a journey to expand my knowledge and skills in programming, with the aim of transitioning into a junior position in software development. Additionally, I am keen on exploring and learning more about:
 - SQL
 - Data Engineering
@@ -31,6 +32,7 @@ I have experience working with the following Integrated Development Environments
 - SQL Server Management Studio
 
 :email: _**Contact Me**_
+
 Feel free to reach out to me via email at dragana0506@live.com for any collaboration opportunities, questions or recommendantions regarding my projects!
 
 Thank you for visiting my GitHub profile! :v:
