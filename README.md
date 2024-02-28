@@ -4,20 +4,20 @@ I have a passion for coding and aspire to pursue a career in software developmen
 
 :speech_balloon: **About me:**
 
-:blue_book: ## _**Education**_
+:blue_book: _**Education**_
 
-- **Software University (SoftUni), Sofia, Bulgaria**:                                                            ![Image Alt text](/image_01_.jfif "Image")                                                
+- **Software University (SoftUni), Sofia, Bulgaria**:                                                                                                   ![Image Alt text](/image_01_.jfif "Image")                                                
   - Currently studying Python Fundamentals
   - Completed courses in Python Basics and Math Concepts for Developers
 
 - **University of National and Wolrd Economy, Sofia, Bulgaria**:
   - Graduated with a degree in Economics 
 
-:bank: ## _**Current Work Position**_
+:bank: _**Current Work Position**_
 - **Tax Department - Transfer Pricing Consultant**:
   - Employed in the tax department, specializing in Transfer Pricing
 
-:computer: ## _**Programming Interests**_
+:computer: _**Programming Interests**_
 My primary focus is on Python and related technologies. I'm on a journey to expand my knowledge and skills in programming, with the aim of transitioning into a junior position in software development. Additionally, I am keen on exploring and learning more about:
 - SQL
 - Data Engineering
@@ -28,7 +28,7 @@ I have experience working with the following Integrated Development Environments
 - Visual Studio Code
 - SQL Server Management Studio
 
-:email: ## _**Contact Me**_
+:email: _**Contact Me**_
 Feel free to reach out to me via email at dragana0506@live.com for any collaboration opportunities, questions or recommendantions regarding my projects!
 
 Thank you for visiting my GitHub profile! 
