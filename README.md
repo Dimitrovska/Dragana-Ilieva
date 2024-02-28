@@ -4,7 +4,7 @@ I have a passion for coding and aspire to pursue a career in software developmen
 
 :speech_balloon: **About me:**
 
-:blue_book: _**Education**_                                                                                    <img align="right" width="100" height="100" src="![Image Alt text](/image_01_.jfif "Image")/100/100">
+:blue_book: _**Education**_                                                                                                                                                        ![Image Alt text](/image_01_.jfif "Image")
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
   - Currently studying Python Fundamentals
