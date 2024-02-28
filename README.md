@@ -5,7 +5,8 @@ I have a passion for coding and aspire to pursue a career in software developmen
 :speech_balloon: **About me:**
 
 <img align="right" width="400" height="400" src="/image_01_.jfif">
-:blue_book: _**Education**_                                
+
+:blue_book: _**Education**_                           
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
   - Currently studying Python Fundamentals
@@ -32,7 +33,7 @@ I have experience working with the following Integrated Development Environments
 :email: _**Contact Me**_
 Feel free to reach out to me via email at dragana0506@live.com for any collaboration opportunities, questions or recommendantions regarding my projects!
 
-Thank you for visiting my GitHub profile! 
+Thank you for visiting my GitHub profile! :v:
 
 <!--
 **Dimitrovska/Dimitrovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
