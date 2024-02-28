@@ -21,11 +21,10 @@ I have a passion for coding and aspire to pursue a career in software developmen
 
 :computer: _**Programming Interests**_
 
-My primary focus is on Python and related technologies. I'm on a journey to expand my knowledge and skills in programming, with the aim of transitioning into a junior position in software development. Additionally, I am keen on exploring and learning more about:
-- SQL
-- Data Engineering
+My primary focus is on Python and related technologies. I'm on a journey to expand my knowledge and skills in programming, with the aim of transitioning into a junior position in software development. 
+Additionally, I am keen on exploring and learning more about SQL and Data Engineering.
 
-I have experience working with the following Integrated Development Environments (IDEs):
+I have experience with the following Integrated Development Environments (IDEs):
 - PyCharm
 - Jupyter Notebook
 - Visual Studio Code
