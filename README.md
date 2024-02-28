@@ -2,9 +2,10 @@
 
 I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
 
-:speech_balloon: **About me:**
 
 <img align="right" width="400" height="400" src="/image_01_.jfif">
+
+:speech_balloon: **About me:**
 
 :blue_book: _**Education**_                           
 
