@@ -1,7 +1,8 @@
-### Hi there! 👋 I'm Dragana Ilieva, a student at the Software University SoftUni currently focusing on mastering Python Fundamentals. I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
+### Hi there! 👋 I'm Dragana Ilieva, a student at the Software University SoftUni currently focusing on mastering Python Fundamentals. 
 
-<!--
-**Dimitrovska/Dimitrovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
+
+**:speech_balloon: About me: **
 
 :blue_book: ## Education
 
@@ -31,3 +32,6 @@ I have experience working with the following Integrated Development Environments
 Feel free to reach out to me via email at dragana0506@live.com for any collaboration opportunities, questions or recommendantions regarding my projects!
 
 Thank you for visiting my GitHub profile! 
+
+<!--
+**Dimitrovska/Dimitrovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
