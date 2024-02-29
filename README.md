@@ -14,7 +14,7 @@ I have a passion for coding and aspire to pursue a career in software developmen
   - Completed courses in Python Basics and Math Concepts for Developers
 
 - **University of National and Wolrd Economy, Sofia, Bulgaria**:
-  - Graduated with a degree in Economics 
+  - Graduated with a master degree in Economics 
 
 :bank: _**Current Work Position**_
 - **Tax Department - Transfer Pricing Consultant**:
