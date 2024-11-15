@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Dragana Ilieva, a student at the Software university "SoftUni", in Sofia, Bulgaria, currently focusing on mastering Python OOP. 
+### Hi there! 👋 I'm Dragana Ilieva, a student at the Software university "SoftUni", in Sofia, Bulgaria, currently focusing on mastering HTML&CSS and JS. 
 
 I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
 
@@ -10,8 +10,8 @@ I have a passion for coding and aspire to pursue a career in software developmen
 :blue_book: _**Education**_                           
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
-  - Currently studying Python OOP
-  - Completed courses in Math Concepts for Developers, Python Basics, Python Fundamentals and Python Advanced
+  - Currently studying HTML&CSS and JS for front-end
+  - Completed courses in Math Concepts for Developers, Python Basics, Python Fundamentals, Python Advanced, Python OOP, SQL
 
 - **University of National and Wolrd Economy, Sofia, Bulgaria**:
   - Graduated with a master degree in Economics 
@@ -31,6 +31,7 @@ I have basic experience with the following Integrated Development Environments (
 - Jupyter Notebook
 - Visual Studio Code
 - PostgreSQL
+- MySQL
 
 :email: _**Contact Me**_
 
