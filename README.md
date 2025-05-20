@@ -11,7 +11,7 @@ I have a passion for coding and aspire to pursue a career in software developmen
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
   - Completed courses in Math Concepts for Developers, Python Basics, Python Fundamentals, Python Advanced, Python OOP, SQL, HTML&CSS
-  - **Udemy**:
+- **Udemy**:
   - Compleated courses in SQL, MYSQL and currently studying Azure Databricks
 
 - **University of National and Wolrd Economy, Sofia, Bulgaria**:
