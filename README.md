@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Dragana Ilieva, a student at the Software university "SoftUni", in Sofia, Bulgaria, currently focusing on mastering HTML&CSS and JS. 
+### Hi there! 👋 I'm Dragana Ilieva, a student at the Software university "SoftUni", in Sofia, Bulgaria, currently focusing on Python and SQL. 
 
-I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
+I have a passion for coding and aspire to pursue a career in software development, particularly in Python back-end development and data engineering. This README serves as a brief introduction to who I am, my educational background, interests, and aspirations in the world of programming. 
 
 
 <img align="right" width="400" height="400" src="/image_01_.jfif">
@@ -33,6 +33,7 @@ I have basic experience with the following Integrated Development Environments (
 - Visual Studio Code
 - PostgreSQL
 - MySQL
+- Azure Databricks
 
 :email: _**Contact Me**_
 
