@@ -10,8 +10,9 @@ I have a passion for coding and aspire to pursue a career in software developmen
 :blue_book: _**Education**_                           
 
 - **Software University (SoftUni), Sofia, Bulgaria**:
-  - Currently studying HTML&CSS and JS for front-end
-  - Completed courses in Math Concepts for Developers, Python Basics, Python Fundamentals, Python Advanced, Python OOP, SQL
+  - Completed courses in Math Concepts for Developers, Python Basics, Python Fundamentals, Python Advanced, Python OOP, SQL, HTML&CSS
+  - **Udemy**:
+  - Compleated courses in SQL, MYSQL and currently studying Azure Databricks
 
 - **University of National and Wolrd Economy, Sofia, Bulgaria**:
   - Graduated with a master degree in Economics 
